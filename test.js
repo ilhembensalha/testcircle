@@ -1,4 +1,4 @@
-const Price = require("./index")
+const Price = require("./server")
 const assert = require('assert').strict;
 
 describe("integration test", function() {
